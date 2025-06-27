@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
           <Toaster richColors/>
           <footer className="bg-blue-50 py-12">
             <div className="container mx-auto px-4 text-center text-grey-600">
-              <p>© 2025 Prathamesh Jakkula. All rights reserved. </p>
+              <p>© 2025 Sanika Patil. All rights reserved. </p>
             </div>
           </footer>
         </body>
